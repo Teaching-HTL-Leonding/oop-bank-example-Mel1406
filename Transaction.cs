@@ -1,0 +1,1 @@
+public record class Transaction(string AccountNumber, string Description, decimal Amount, DateTime Timestamp);
